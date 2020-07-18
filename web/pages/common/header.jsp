@@ -14,7 +14,6 @@
     pageContext.setAttribute("basePath",base);
 %>
 <%--${pageContext.getAttribute("base")}--%>
-<base href="<%=base%>>">
-
+<base href="<%=base%>">
 <link type="text/css" rel="stylesheet" href="static/css/style.css" >
 <script type="text/javascript" src="static/script/jquery-1.7.2.js"></script>

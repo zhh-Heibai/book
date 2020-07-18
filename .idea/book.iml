@@ -31,5 +31,6 @@
       </library>
     </orderEntry>
     <orderEntry type="library" name="Java EE 6-Java EE 6 (2)" level="project" />
+    <orderEntry type="library" name="javax.servlet.jsp.jstl" level="project" />
   </component>
 </module>
